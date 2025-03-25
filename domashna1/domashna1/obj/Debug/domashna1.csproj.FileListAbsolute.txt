@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\obj\Debug\domashna1.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\obj\Debug\domashna1.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\bin\Debug\domashna1.exe.config
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\bin\Debug\domashna1.exe
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\bin\Debug\domashna1.pdb
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\obj\Debug\domashna1.exe
-C:\Users\User\Desktop\Programirane\domashna1\domashna1\obj\Debug\domashna1.pdb
